@@ -1,0 +1,29 @@
+# > Bilibili
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+USER-AGENT,bili*
+USER-AGENT,Bili*
+USER-AGENT,%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9*
+# > IQIYI
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,qchannel01.cn
+USER-AGENT,iQiYi*
+USER-AGENT,QIYI*

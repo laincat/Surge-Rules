@@ -1,0 +1,8 @@
+# TestFlight
+USER-AGENT,Oasis*
+# App Store
+PROCESS-NAME,storedownloadd // Mac App Store
+USER-AGENT,com.apple.appstored* // iOS App Store
+DOMAIN,xp.apple.com // iOS & macOS System Upgrade
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,store.apple.com

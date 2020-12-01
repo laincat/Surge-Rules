@@ -1,0 +1,69 @@
+# > (HK)
+# > myTV_SUPER
+USER-AGENT,mytv*
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+# > encoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,content.jwplatform.com
+DOMAIN,videos-f.jwpsrv.com
+# > ViuTV
+USER-AGENT,ViuTV*
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+
+# > (US)
+# > HBO NOW & HBO GO
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogoasia.hk
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+# > Youtube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+USER-AGENT,YouTubeMusic*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
+# > Netflix
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com
+# > Amazon Prime Video (US|JP)
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+
+# (Music)
+# > Spotify
+USER-AGENT,Spotify*
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
+# > JOOX
+USER-AGENT,WeMusic*
+USER-AGENT,JOOX*
+DOMAIN-SUFFIX,joox.com
+# > Pandora
+DOMAIN-SUFFIX,pandora.com
+# > KKBOX(HK|MO|TW|JP|SG|MY)
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kfs.io
+# > SoundCloud
+USER-AGENT,SoundCloud*
