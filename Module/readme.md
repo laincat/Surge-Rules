@@ -19,6 +19,7 @@ https://github.com/laincat/Surge-Rules/raw/main/Module/Weibo.sgmodule
 
 ```
 https://github.com/scomper/Surge
+https://github.com/NobyDa/Script
 https://github.com/yichahucha/surge
 https://github.com/onewayticket255/Surge-Script
 ```
