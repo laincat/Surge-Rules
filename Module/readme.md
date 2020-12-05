@@ -1,12 +1,24 @@
 ## Surge (version > 4.20)
+
 ### Install Module
+
 #### BiliBili
 ```
-https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/module/bilibili.sgmodule
+https://github.com/onewayticket255/Surge-Script/raw/master/module/bilibili.sgmodule
 ```
 #### ZhiHu
 ```
-https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/module/zhihu.sgmodule
+https://github.com/onewayticket255/Surge-Script/raw/master/module/zhihu.sgmodule
+```
+#### WeiBo
+```
+https://github.com/laincat/Surge-Rules/raw/main/Module/Weibo.sgmodule
 ```
 
-Special thanks：https://github.com/onewayticket255/Surge-Script
+#### Special thanks：
+
+```
+https://github.com/scomper/Surge
+https://github.com/yichahucha/surge
+https://github.com/onewayticket255/Surge-Script
+```
