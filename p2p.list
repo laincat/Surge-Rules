@@ -13,5 +13,5 @@ PROCESS-NAME,DownloadService
 PROCESS-NAME,Weiyun
 
 # > Point-to-Point
-URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+#URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+#URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
