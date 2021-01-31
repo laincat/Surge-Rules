@@ -1,2 +1,9 @@
-#
-DOMAIN-SUFFIX,googletamanager.com
+# > Bilibili
+USER-AGENT,bili*
+USER-AGENT,%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9*
+
+# > QQ Music
+USER-AGENT,QQ*
+
+# > wanyi yun
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
