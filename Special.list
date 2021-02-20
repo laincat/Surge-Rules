@@ -1,12 +1,12 @@
 # > Bilibili
-USER-AGENT,bili*
-USER-AGENT,%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9*
+# USER-AGENT,bili*
+# USER-AGENT,%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9*
 
 # > QQ Music
-USER-AGENT,QQ*
+# USER-AGENT,QQ*
 
 # > Netease Cloud Music
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+# USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 
 # > Spotify
 DOMAIN-SUFFIX,ap.spotify.com
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla-cdn.thron.cn
 
 # > Xunlei
-USER-AGENT,%E8%BF%85%E9%9B%B7
+# USER-AGENT,%E8%BF%85%E9%9B%B7
 DOMAIN-SUFFIX,xunlei.com
 
 # > Download
